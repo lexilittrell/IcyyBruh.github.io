@@ -1,5 +1,7 @@
-table, th, td {
-  border: 20px ;
+
+th {
+  background-color: #04AA6D;
+  color: white;
 }
 th, td {
   padding: 15px;
