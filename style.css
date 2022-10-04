@@ -1,3 +1,5 @@
 table, th, td {
   border: 10px solid;
+  background-color: White;
+  font-size: 20px; 
 }
